@@ -6,9 +6,10 @@ The official codebase for Exemplar-Free Incremental Deepfake Detection
 ### Introduction
 This repo contains the official PyTorch implementation of the paper: Exemplar-Free Incremental Deepfake Detection.
 
-- [x] 起床
-* [ ] 洗漱
-+ [ ] 吃早餐
+### TODO
+- [x] Data preparation and preprocessing
+* [ ] Release training code. 
++ [ ] Release inference code.
 
 ### Data preparation and preprocessing
 
